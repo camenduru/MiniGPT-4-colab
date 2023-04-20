@@ -12,6 +12,9 @@
 ### Main Repo
 https://github.com/Vision-CAIR/MiniGPT-4
 
+### Tutorial
+https://www.youtube.com/watch?v=WzYBMWc6Zqk
+
 ## Models License
 | Model | License
 | --- | --- |
