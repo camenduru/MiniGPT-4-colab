@@ -21,6 +21,7 @@ https://huggingface.co/decapoda-research/llama-13b-hf | https://huggingface.co/d
 ## Output
 
 ![Screenshot 2023-04-20 182643](https://user-images.githubusercontent.com/54370274/233425725-c768f6f3-5e84-4720-85c1-d5e2390cdea8.png)
+![Screenshot 2023-04-20 182019](https://user-images.githubusercontent.com/54370274/233426283-5f3cf719-a84b-42f3-a575-836bbb3d2521.png)
 
 ## For RunPod
 https://runpod.io/gsc?template=9m2wl11ypy&ref=iqi9iy8y
