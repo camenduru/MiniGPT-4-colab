@@ -7,6 +7,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT-4-colab/blob/main/minigpt4_colab.ipynb) | Pro Colab we need more than 20GB vram 😭
 
 ### Main Repo
 https://github.com/Vision-CAIR/MiniGPT-4
