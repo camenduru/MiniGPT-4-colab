@@ -8,7 +8,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT-4-colab/blob/main/minigpt4_colab.ipynb) | 13B Pro Colab we need more than 20GB vram 😭
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT-4-colab/blob/main/minigpt4_7b_colab.ipynb) 🚦WIP🚦 | 7B Free Colab we need more than 12GB vram 😀
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT-4-colab/blob/main/minigpt4_7b_colab.ipynb) | 7B T4 Colab we need more than 12GB vram 😀 but we need High-RAM 😐
 
 ### Main Repo
 https://github.com/Vision-CAIR/MiniGPT-4
