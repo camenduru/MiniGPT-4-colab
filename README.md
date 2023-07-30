@@ -14,6 +14,9 @@
 ### Main Repo
 https://github.com/Vision-CAIR/MiniGPT-4
 
+### Paper
+https://arxiv.org/abs/2304.10592
+
 ### Tutorial
 https://www.youtube.com/watch?v=WzYBMWc6Zqk
 
